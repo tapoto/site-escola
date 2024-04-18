@@ -15,7 +15,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 70%;
 }
 
 .cabecalho-lista-item{
@@ -26,11 +26,11 @@ body {
 
 .cabecalho-lista-item a{
     text-decoration: none; 
-    color: white;
+    color: #adffb6;
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 40%;
 }
 
 #escola{
@@ -87,6 +87,6 @@ body {
 
 .rodape-imagem{
     height: 60px;
-    padding: 12px 0;
+    padding: 16px 0;
    
 }
